@@ -1,0 +1,22 @@
+/*  The designs were created to the following widths: 
+
+- Mobile: 375px
+- Desktop: 1440px -->
+
+
+
+*/
+:root {
+    --Soft-blue: hsl(215, 51%, 70%);
+    --Cyan: hsl(178, 100%, 50%);
+    --very-Dark-blue: hsl(217, 54%, 11%);
+    --darkblue: hsl(216, 50%, 16%);
+    --blue: hsl(215, 32%, 27%);
+    --White: hsl(0, 0%, 100%);
+    --Fsize: 18px;
+    --Family: 'Outfit', sans-serif;
+    --W1: 300;
+    --W2: 400;
+    --W3: 600;
+
+}
